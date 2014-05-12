@@ -1,0 +1,63 @@
+body {
+	background-color: rgb(35, 113, 159);
+}
+
+.header {
+	background: #27709b;
+	background: linear-gradient(to bottom, #27709b 0, #24688f 100%);
+
+	background: rgba(0,0,0,0.1);
+	background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0, rgba(0,0,0,0.15) 100%);
+}
+
+.cards {
+	background: #dbdbdb;
+	border-radius: 3px;
+	margin: 0 5px;
+	padding: 4px 3px 3px;
+	width: 250px;
+}
+
+.card {
+	color: #393939;
+	background-color: #fff;
+	border-bottom: 1px solid #bdbdbd;
+	border-radius: 3px;
+	margin-bottom: 5px;
+}
+
+.card .vote {
+	color: #b3b3b3;
+}
+
+/*
+星号颜色： #e6bf00
+点击任务弹出的窗口
+	整体背景：background: #f0f0f0;
+	投票按钮背景：background-color: #dedede;
+*/
+
+/*任务弹出的窗右侧按钮*/
+.button-link {
+	background: #fff;
+	background: linear-gradient(to bottom, #fff 0, #f0f0f0 100%);
+	border-radius: 3px;
+	border: 1px solid #d6d6d6;
+	border-bottom-color: #bdbdbd;
+}
+
+/*滚动条*/
+.fancy-scrollbar {
+	-webkit-overflow-scrolling: touch;
+}
+.fancy-scrollbar::-webkit-scrollbar {
+	height: 9px;
+	width: 9px;
+}
+.fancy-scrollbar::-webkit-scrollbar-button {
+	display: block;
+	height: 4px;
+}
+.fancy-scrollbar::-webkit-scrollbar-track-piece {
+	background: #d0d0d0;
+}
