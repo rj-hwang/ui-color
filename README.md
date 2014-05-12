@@ -1,5 +1,5 @@
 ## Gather UI color design
-### 1. [codepen.io](http://codepen.io/JosephSilber/pen/HqgAz)
+### 1. <a href="http://codepen.io/JosephSilber/pen/HqgAz" target="_blank">codepen.io</a>
 
 ## Color conversion formulas
 ### 1. RGB - HEX
