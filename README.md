@@ -1,5 +1,6 @@
 ## Gather UI color design
-### 1. <a href="http://codepen.io/JosephSilber/pen/HqgAz" target="_blank">codepen.io</a>
+### 1. [codepen.io](http://codepen.io/JosephSilber/pen/HqgAz)
+### 2. [IntelliJ IDEA Theme Darcula](http://www.jetbrains.com/idea/)
 
 ## Color conversion formulas
 ### 1. RGB - HEX
